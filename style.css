@@ -44,3 +44,13 @@ td {
 .playerTurn {
     text-align: center;
 }
+
+.gameboardContainer {
+  text-align: center;
+}
+
+button {
+  margin-top: 30px;
+  cursor: pointer;
+}
+
