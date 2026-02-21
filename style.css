@@ -19,8 +19,8 @@ table {
   border-collapse: collapse; /* This avoids double borders */
   border-width: 3px;
 
-  width: 350px;
-  height: 350px;
+  width: 500px;
+  height: 500px;
   
   border-collapse: collapse;
   border-style: hidden;
@@ -48,6 +48,8 @@ td {
 
 .gameboardContainer {
   text-align: center;
+  
+
 }
 
 button {
